@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1454020995 source:p:\code blocks c++\documents\polski_spoj\spoj_1055_parzyste_nieparzyste\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<sstream>
+
